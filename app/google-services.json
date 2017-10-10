@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "290994695749",
+    "firebase_url": "https://excellaglobal-181804.firebaseio.com",
+    "project_id": "excellaglobal-181804",
+    "storage_bucket": "excellaglobal-181804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290994695749:android:cc5a49207d508b09",
+        "android_client_info": {
+          "package_name": "proj.excellaglobal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290994695749-6165giaccjrq5994unbn0kktmlnu7nml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "proj.excellaglobal",
+            "certificate_hash": "a3f04938d783ae8159b00fa80575ed4e381dde67"
+          }
+        },
+        {
+          "client_id": "290994695749-8v73j6m8jk1gqdon36s5nkplm104ir9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsA3WTfg3eKJF7Vo4-XcOZHoMUW04iUiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290994695749-8v73j6m8jk1gqdon36s5nkplm104ir9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
